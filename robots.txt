@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dds-rho.vercel.app/sitemap.xml
